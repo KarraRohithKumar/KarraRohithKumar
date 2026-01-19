@@ -11,7 +11,7 @@
 
 <!-- Social Media & Contact Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/rohithkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rohith-kumar-17ba492b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
   <a href="mailto:rohithkumar20056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
   <a href="https://github.com/KarraRohithKumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
   <a href="tel:+919550903818"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/></a>
