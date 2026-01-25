@@ -284,9 +284,6 @@ I'm always excited to collaborate on innovative projects and explore new opportu
   <a href="mailto:rohithkumar20056@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohithkumar20056@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/rohithkumar">
-    <img src="www.linkedin.com/in/rohith-kumar-17ba492b1/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="tel:+919550903818">
     <img src="https://img.shields.io/badge/Phone-+91%209550903818-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
